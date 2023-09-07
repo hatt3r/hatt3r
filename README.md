@@ -1,22 +1,29 @@
-<img src="https://komarev.com/ghpvc/?username=hatt3r&color=yellow&style=flat-square" alt="hatt3r" />
+<h1 align="center">Hi 👋, I'm Serene Mathew</h1> 
+<h3 align="center">Passionate about Application Development and CTF</h3>
 
-<!-- Banner --> 
-[![Serene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat)](https://github.com/KnlnKS/leetcode-stats)
-<!-- Stats -->
-<div align="center">
-  <a href="https://github.com/hatt3r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatt3r&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatt3r&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE" />
-  </a>
-</div>
- 
+- 🔭 I’m currently working on **My Learning Part**
 
-<!-- Typing and Social -->
-<p align="center">
- [![Serene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat)](https://github.com/KnlnKS/leetcode-stats)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Application+Developement;Web+Development%2Fdesign;CTF+Enthusiast;Machine+Learning+<3&width=500&height=50&color=ffdc40&center=true)](https://github.com/hatt3r)
-  <a href="https://www.linkedin.com/in/andreas-karabetian"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/adreaskar"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!--<a href="https://ko-fi.com/adreaskar"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
-  
+- 🌱 I’m currently learning **CTF, DSA and Vue.JS**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/hatt3r?tab=repositories)
+
+- 💬 Ask me about **Computer Vision / CyberSecurity / Android/iOS/Web Development**
+
+- 📫 How to reach me **serenemat@gmail.com**
+
+- 📄 Resume [Link](https://drive.google.com/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/serene-mathew-41a090233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serene-mathew-41a090233/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/serenemat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/serenemat/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamamanporwal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://leetcode-stats-six.vercel.app/?username=iamamanporwal&theme=dark)
+
+![Views](https://komarev.com/ghpvc/?username=iamamanporwal&style=flat-square)
