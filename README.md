@@ -8,8 +8,10 @@
   <a href="https://github.com/hatt3r">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatt3r&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatt3r&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE" />
+  
   </a>
 </div>
+ [![Serene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- Typing and Social -->
 <p align="center">
