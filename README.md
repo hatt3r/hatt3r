@@ -1,8 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=hatt3r&color=yellow&style=flat-square" alt="hatt3r" />
 
 <!-- Banner --> 
-![me](https://github.com/adreaskar/adreaskar/blob/master/resources/2.jpg?raw=true)
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat)](https://github.com/KnlnKS/leetcode-stats)
+[![Serene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat)](https://github.com/KnlnKS/leetcode-stats)
 <!-- Stats -->
 <div align="center">
   <a href="https://github.com/hatt3r">
