@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=hatt3r&color=yellow&style=flat-square" alt="hatt3r" />
 
 <!-- Banner --> 
-
+[![Serene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat)](https://github.com/KnlnKS/leetcode-stats)
 <!-- Stats -->
 <div align="center">
   <a href="https://github.com/hatt3r">
@@ -10,7 +10,7 @@
   
   </a>
 </div>
- [![Serene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=serenemat)](https://github.com/KnlnKS/leetcode-stats)
+ 
 
 <!-- Typing and Social -->
 <p align="center">
