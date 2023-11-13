@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serene Mathew</h1> 
-<h3 align="center">Passionate about all things interesting/h3>
+<h3 align="center">Passionate about all things interesting</h3>
 
 - 🔭 I’m currently working on **My Learning Part**
 
