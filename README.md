@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **My Learning Part**
 
-- 🌱 I’m currently learning **CTF, DSA and Vue.JS**
+- 🌱 I’m currently learning **CTF, DSA and Android Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hatt3r?tab=repositories)
 
-- 💬 Ask me about **Computer Vision / CyberSecurity / Android/iOS/Web Development**
+- 💬 Ask me about **CyberSecurity / Android/iOS/Web Development**
 
 - 📫 How to reach me **serenemat@gmail.com**
 
