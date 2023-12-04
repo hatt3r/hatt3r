@@ -40,6 +40,5 @@
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hatt3r&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://leetcode-stats-six.vercel.app/?username=serenemat&theme=dark)
 
 ![Views](https://komarev.com/ghpvc/?username=hatt3r&style=flat-square)
