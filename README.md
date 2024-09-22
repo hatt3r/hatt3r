@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hatt3r?tab=repositories)
 
-- 💬 Ask me about **Cyber Security / F1 **
+- 💬 Ask me about **Cyber Security / F1**
 
 - 📫 How to reach me **serenemat@gmail.com**
 
