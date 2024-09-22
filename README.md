@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **My Learning Part**
 
-- 🌱 I’m currently learning **AppliedCyber Security**
+- 🌱 I’m currently learning **Applied Cyber Security**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hatt3r?tab=repositories)
 
-- 💬 Ask me about **CyberSecurity / Android/iOS/Web Development**
+- 💬 Ask me about **Cyber Security / F1 **
 
 - 📫 How to reach me **serenemat@gmail.com**
 
