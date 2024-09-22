@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Learning Part**
 
-- 🌱 I’m currently learning **DSA and Android Development**
+- 🌱 I’m currently learning **AppliedCyber Security**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hatt3r?tab=repositories)
 
