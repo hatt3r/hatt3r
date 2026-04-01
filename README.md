@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serene Mathew</h1> 
 <h3 align="center">Passionate about all things interesting</h3>
 
-- 🔭 I’m currently working on **Malware Analysis and building a Secret Project**
+- 🔭 I’m currently working on **Golang, Malware analysis and building a Secret Project**
 
 - 🌱 I’m currently learning **Applied Cyber Security**
 
